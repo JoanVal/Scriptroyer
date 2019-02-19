@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hola, estudiante del taller de Linux."
+echo "Hola, estudiante del taller de GNU/Linux."
 
 # Lectura interactiva del nombre
 echo "Escriba su nombre: "
